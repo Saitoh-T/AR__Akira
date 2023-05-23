@@ -46,6 +46,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+com.ptc.vuforia.engine-10.15.4.tgz
 
 # Unity3D generated meta files
 *.pidb.meta
